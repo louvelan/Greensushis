@@ -182,7 +182,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content
 { text-align: left;
-  max-width: 100%;
+  max-width: 2048px;
   padding: 0;}
 
 #content ul
