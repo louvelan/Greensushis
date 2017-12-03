@@ -151,7 +151,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   background: #373F1D url(menu_select.png) repeat-x;}
 
 #site_content
-{ max-width: 100%;
+{ max-width: 1024px;
   overflow: hidden;
   margin: 1%;
   padding: 20px 24px 20px 37px;
